@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Publications
+permalink: /publications/
 ---
 
-Some information about you!
+### Papers
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- **ScienceWorld: Is your Agent Smarter than a 5th Grader?**.
+Ruoyao Wang\*, Peter Jansen\*, Marc-Alexandre Côté, Prithviraj Ammanabrolu.
+[[pdf](https://arxiv.org/pdf/2203.07540v1.pdf)]
+[[code](https://github.com/allenai/ScienceWorld)]
+[[project](https://sciworld.apps.allenai.org/)]
