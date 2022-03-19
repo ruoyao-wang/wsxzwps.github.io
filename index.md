@@ -11,7 +11,7 @@ My general research interests are in natural language processing. Specifically, 
 
 I also had experiences in medical image processing and embedded systems.
 
-Some of my personal interests include 
+Some of my personal interests include reading fictions and history, soccers, 
 
 ### Contact
 <p><a><i class="svg-icon email"></i></a>ruoyaowang@email.arizona.edu</p>
