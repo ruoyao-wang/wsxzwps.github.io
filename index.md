@@ -14,5 +14,5 @@ I also had experiences in medical image processing and embedded systems.
 Some
 
 ### Contact
-<p><i class="svg-icon email">ruoyaowang@email.arizona.edu</i></p>
-<p><i class="svg-icon github">https://github.com/wsxzwps</i></p>
+<p><i class="svg-icon email"></i>ruoyaowang@email.arizona.edu</p>
+<p><i class="svg-icon github"></i>https://github.com/wsxzwps</p>

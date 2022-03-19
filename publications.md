@@ -23,3 +23,7 @@ Santiago Castro, Mahmoud Azab, Jonathan C. Stroud, Cristina Noujaim, Ruoyao Wang
 [[pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.536.pdf)]
 [[code](https://github.com/mmazab/LifeQA)]
 [[project](https://lit.eecs.umich.edu/lifeqa/)]
+
+- **High-resolution image reconstruction for portable ultrasound imaging devices**.
+Ruoyao Wang, Zhenghan Fang, Jiaqi Gu, Yi Guo, Shicong Zhou, Yuanyuan Wang, Cai Chang and Jinhua Yu
+[[pdf](https://link.springer.com/content/pdf/10.1186/s13634-019-0649-x.pdf)]
