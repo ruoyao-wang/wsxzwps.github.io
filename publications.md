@@ -17,3 +17,9 @@ Ruoyao Wang\*, Peter Jansen\*, Marc-Alexandre Côté, Prithviraj Ammanabrolu.
 Santiago Castro, Ruoyao Wang, Pingxuan Huang, Ian Stewart, Oana Ignat, Nan Liu, Jonathan C. Stroud, Rada Mihalcea.
 [[pdf](https://arxiv.org/abs/2104.04182)]
 [[code](https://github.com/MichiganNLP/video-fill-in-the-blank)]
+
+- **LifeQA: A Real-life Dataset for Video Question Answering**.
+Santiago Castro, Mahmoud Azab, Jonathan C. Stroud, Cristina Noujaim, Ruoyao Wang, Jia Deng, Rada Mihalcea.
+[[pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.536.pdf)]
+[[code](https://github.com/mmazab/LifeQA)]
+[[project](https://lit.eecs.umich.edu/lifeqa/)]
