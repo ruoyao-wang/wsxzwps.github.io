@@ -10,5 +10,5 @@ I am a first year Ph.D. student in information at University of Arizona. My advi
 My general research interests are in natural language processing.
 
 ### Contact
-ruoyaowang@email.arizona.edu
-<i class="svg-icon github"> https://github.com/wsxzwps</i>
+<i class="svg-icon email"> ruoyaowang@email.arizona.edu </i>
+<i class="svg-icon github"> https://github.com/wsxzwps </i>
