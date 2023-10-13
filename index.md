@@ -30,6 +30,7 @@ email: ruoyaowang@arizona.edu
 
 - **How to use academic and digital fingerprints to catch and eliminate contract cheating during online multiple-choice examinations: a case study**.<br>
   Meaghan Emery-Wetherell, Ruoyao Wang.<br>
+  _Assessment & Evaluation in Higher Education_<br>
   [[paper](https://www.tandfonline.com/doi/full/10.1080/02602938.2023.2175348)]
 
 - **Behavior Cloned Transformers are Neurosymbolic Reasoners**.<br>
