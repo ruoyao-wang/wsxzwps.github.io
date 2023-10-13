@@ -5,9 +5,9 @@ permalink: /
 ---
 <img class="self-photo" style="float:right; padding-left:10px" src="images/IMG_0440.JPG">
 
-I am a second year Ph.D. student in information at University of Arizona. My advisor is Peter Jansen. I received my master degree in computer science from University of Michigan and my undergraduate degree in microelectronic engineering from Fudan University.
+I am a third year Ph.D. student in information at University of Arizona. My advisor is Peter Jansen. I received my master degree in computer science from University of Michigan and my undergraduate degree in microelectronic engineering from Fudan University.
 
-My research interests are mainly in question answering and understanding how computer models reason knowledge and apply knowledge to answer questions. I am especially interested in multi-modal question answering and the use of virtual simulation environments for question answering model training and benchmarking.
+My research interests are mainly in especially text virtual environments or text games. I worked building text environments as well as the agents for these environments. It is still challenging for today's powerful large language models to work well in an interactive environment. I also work on code generation.
 
 Before I worked in natural language processing, I had research experiences in medical image processing and embedded systems.
 
@@ -18,8 +18,23 @@ email: ruoyaowang@arizona.edu
 
 ### Publications
 
+- **ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**.<br>
+  Ruoyao Wang$, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre Côté, Peter Jansen.<br>
+  _EMNLP 2023_<br>
+  [[pdf](https://arxiv.org/abs/2305.14879)]
+
+- **Self-Supervised Behavior Cloned Transformers are Path Crawlers for Text Games**.<br>
+  Ruoyao Wang, Peter Jansen.<br>
+  _EMNLP 2023_<br>
+  [[pdf](https://openreview.net/pdf?id=g4FAvRcSuf)]
+
+- **How to use academic and digital fingerprints to catch and eliminate contract cheating during online multiple-choice examinations: a case study**.<br>
+  Meaghan Emery-Wetherell, Ruoyao Wang.<br>
+  [[paper](https://www.tandfonline.com/doi/full/10.1080/02602938.2023.2175348)]
+
 - **Behavior Cloned Transformers are Neurosymbolic Reasoners**.<br>
   Ruoyao Wang, Peter Jansen, Marc-Alexandre Côté, Prithviraj Ammanabrolu.<br>
+  _EACL 2023_<br>
   [[pdf](https://arxiv.org/abs/2210.07382)]
 
 - **ScienceWorld: Is your Agent Smarter than a 5th Grader?**.
