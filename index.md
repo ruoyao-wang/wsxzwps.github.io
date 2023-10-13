@@ -19,7 +19,7 @@ email: ruoyaowang@arizona.edu
 ### Publications
 
 - **ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**.<br>
-  Ruoyao Wang$, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre Côté, Peter Jansen.<br>
+  Ruoyao Wang, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre Côté, Peter Jansen.<br>
   _EMNLP 2023_<br>
   [[pdf](https://arxiv.org/abs/2305.14879)]
 
