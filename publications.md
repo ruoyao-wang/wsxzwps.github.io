@@ -5,8 +5,23 @@ permalink: /publications/
 ---
 
 ### Papers
+- **ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**.<br>
+  Ruoyao Wang$, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre Côté, Peter Jansen.<br>
+  _EMNLP 2023_<br>
+  [[pdf](https://arxiv.org/abs/2305.14879)]
+
+- **Self-Supervised Behavior Cloned Transformers are Path Crawlers for Text Games**.<br>
+  Ruoyao Wang, Peter Jansen.<br>
+  _EMNLP 2023_<br>
+  [[pdf](https://openreview.net/pdf?id=g4FAvRcSuf)]
+
+- **How to use academic and digital fingerprints to catch and eliminate contract cheating during online multiple-choice examinations: a case study**.<br>
+  Meaghan Emery-Wetherell, Ruoyao Wang.<br>
+  [[paper](https://www.tandfonline.com/doi/full/10.1080/02602938.2023.2175348)]
+
 - **Behavior Cloned Transformers are Neurosymbolic Reasoners**.<br>
   Ruoyao Wang, Peter Jansen, Marc-Alexandre Côté, Prithviraj Ammanabrolu.<br>
+  _EACL 2023_<br>
   [[pdf](https://arxiv.org/abs/2210.07382)]
 
 - **ScienceWorld: Is your Agent Smarter than a 5th Grader?**.
