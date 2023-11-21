@@ -12,7 +12,7 @@ permalink: /publications/
 
 - **Self-Supervised Behavior Cloned Transformers are Path Crawlers for Text Games**.<br>
   Ruoyao Wang, Peter Jansen.<br>
-  _EMNLP 2023_<br>
+  _EMNLP 2023 Findings_<br>
   [[pdf](https://openreview.net/pdf?id=g4FAvRcSuf)]
 
 - **How to use academic and digital fingerprints to catch and eliminate contract cheating during online multiple-choice examinations: a case study**.<br>
